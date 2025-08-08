@@ -16,9 +16,4 @@ python-multipart
 faiss-cpu
 numpy
 scipy
-scikit-learn
-scikit-image
-scikit-learn-intelex
-scikit-image-intelex
-scikit-learn-intelex
 pinecone
